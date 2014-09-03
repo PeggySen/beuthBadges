@@ -32,8 +32,7 @@ Summary about Version 0.0.1 coming soon!
 
 ## Usage
 If you want to download the Git Repository to stay up to date, use this statement:<br>
-```$ git clone https://github.com/PeggySen/beuthBadges.git
-...```
+```$ git clone https://github.com/PeggySen/beuthBadges.git```
 
 ### Third party libraries
 * see [LIBRARIES](https://github.com/username/sw-name/blob/master/LIBRARIES.md) files
