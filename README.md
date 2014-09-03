@@ -46,7 +46,7 @@ This Repository is still under Construction! (03. September 2014)
 #### Developer
 * Homepage: 
 * e-mail: 
-* Twitter: [@AllMobileGirl](<a href="https://twitter.com/AllMobileGirl" target="_blank">"AllMobileGirl on twitter"</a> )
+* Twitter: <a href="https://twitter.com/AllMobileGirl" target="_blank">@AllMobileGirl</a>
 * other communication/social media
 
 
