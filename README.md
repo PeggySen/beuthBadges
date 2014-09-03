@@ -36,8 +36,9 @@ This Repository is still under Construction! (03. September 2014)
 ## License 
 * see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
 
-## Version 
-* Version X.Y
+## Versions 
+
+__Version 0.0.1__
 
 ## How-to use this code
 * see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
