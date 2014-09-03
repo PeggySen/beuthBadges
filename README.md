@@ -22,12 +22,15 @@ This Repository is still under Construction! (03. September 2014)
   * unsorted Point 3
   * 
 
-## Download
-* Other Versions
-* [Version 0.0.1](https://github.com/PeggySen/beuthBadges/archive/master.zip)
+## Versions 
+
+__Version 0.0.1__<br>
+Summary about Version 0.0.1 coming soon!
+
 
 
 ## Usage
+If you want to download the Git Repository to stay up to date, use this statement:<br>
 ```$ git clone https://github.com/username/software-project.git
 ...```
 
@@ -37,9 +40,7 @@ This Repository is still under Construction! (03. September 2014)
 ## License 
 * see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
 
-## Versions 
 
-__Version 0.0.1__
 
 ## How-to use this code
 * see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
