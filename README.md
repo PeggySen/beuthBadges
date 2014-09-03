@@ -5,7 +5,7 @@ beuthBadges is a Wordpress Plugin for creating and awarding Mozilla Open Badges.
 
 This Repository is still under Construction! (03. September 2014)
 
-#### Insert Images
+#### Insert Images with Links TODO 
 <!-- edit this image location -->
 [![Screenshot XY](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
