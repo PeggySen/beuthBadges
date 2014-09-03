@@ -39,7 +39,7 @@ If you want to download the Git Repository to stay up to date, use this statemen
 ```$ git clone https://github.com/PeggySen/beuthBadges.git```
 
 ### Third party libraries
-* see [LIBRARIES](https://github.com/username/sw-name/blob/master/LIBRARIES.md) files
+* see [LIBRARIES](https://github.com/PeggySen/beuthBadges/blob/master/LIBRARIES) files
 
 ## License 
 * see [LICENSE](https://github.com/PeggySen/beuthBadges/blob/master/LICENSE) file
