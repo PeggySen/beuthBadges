@@ -23,8 +23,9 @@ This Repository is still under Construction! (03. September 2014)
   * 
 
 ## Download
-* [Version 0.0.1](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
+* [Version 0.0.1](https://github.com/PeggySen/beuthBadges/archive/master.zip)
+
 
 ## Usage
 ```$ git clone https://github.com/username/software-project.git
