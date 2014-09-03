@@ -22,6 +22,10 @@ This Repository is still under Construction! (03. September 2014)
   * unsorted Point 3
   * 
 
+## Download
+* [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
+* Other Versions
+
 ## Usage
 ```$ git clone https://github.com/username/software-project.git
 ...```
