@@ -1,7 +1,7 @@
 beuthBadges
 ===========
 
-beuthBadges is a Wordpress Plugin for creating and awarding Mozilla Open Badges. The Plugin is based on the great work of <a href="https://github.com/davelester/WPBadger" target="_blank"><b>Dave Lester</b></a> for creating and issuing Badges, further placing Badges for a specific emailadress as <a href="https://github.com/davelester/WPBadgeDisplay" target="_blank"><b>Wordpress Widget</b></a> onto a blog.
+beuthBadges is a Wordpress Plugin for creating and awarding Mozilla Open Badges. The Plugin is based on the great work of <a href="https://github.com/davelester/WPBadger" target="_blank"><b>Dave Lester</b></a> for creating and issuing Badges, further placing Badges for a specific emailadress (corresponding to a Mozilla Open Badges Backpack) as <a href="https://github.com/davelester/WPBadgeDisplay" target="_blank"><b>Wordpress Widget</b></a> onto a blog.
 
 This Repository is still under Construction! (03. September 2014)
 
