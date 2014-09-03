@@ -44,7 +44,7 @@ This Repository is still under Construction! (03. September 2014)
 
 ## Contact
 #### Developer
-* Homepage: to be added soon :)
+* Homepage: coming soon :)
 * Twitter: <a href="https://twitter.com/AllMobileGirl" target="_blank">@AllMobileGirl</a>
 
 
