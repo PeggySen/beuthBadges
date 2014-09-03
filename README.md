@@ -9,6 +9,10 @@ This Repository is still under Construction! (03. September 2014)
 <!-- edit this image location -->
 [![Screenshot XY](http://imsky.github.io/holder/images/header.png)](link)
 
+##Update/News
+
+This Repository is still under Construction! The first Version of the Wordpress Plugin "beuthBadges" will be available soon.
+
 ##Introduction
 
 #### Topic 1
