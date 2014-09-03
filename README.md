@@ -46,6 +46,9 @@ Summary about Version 0.1 coming soon!
 If you want to download the Git Repository to stay up to date, use this statement:<br>
 ```$ git clone https://github.com/PeggySen/beuthBadges.git```
 
+If you want to know more, e.g. why we have developed an own plugin, see:
+<a href="http://beuthbadges.wordpress.com/category/development/beuthbadges-wp-plugin/" target="_blank"><b>Plugin Website</b></a>
+
 ### Third party libraries
 * see [LIBRARIES](https://github.com/PeggySen/beuthBadges/blob/master/LIBRARIES) files
 
