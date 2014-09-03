@@ -42,7 +42,7 @@ If you want to download the Git Repository to stay up to date, use this statemen
 * see [LIBRARIES](https://github.com/username/sw-name/blob/master/LIBRARIES.md) files
 
 ## License 
-* see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
+* see [LICENSE](https://github.com/PeggySen/beuthBadges/blob/master/LICENSE) file
 
 
 
