@@ -23,7 +23,7 @@ This Repository is still under Construction! (03. September 2014)
   * 
 
 ## Download
-* [Version X.Y](https://github.com/username/sw-name/archive/master.zip)
+* [Version 0.0.1](https://github.com/username/sw-name/archive/master.zip)
 * Other Versions
 
 ## Usage
