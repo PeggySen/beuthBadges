@@ -7,7 +7,7 @@ This Repository is still under Construction! (03. September 2014)
 
 #### Insert Images with Links TODO 
 <!-- edit this image location -->
-[![Screenshot XY](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+[![Screenshot XY](http://imsky.github.io/holder/images/header.png)](link)
 
 ##Introduction
 
