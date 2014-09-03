@@ -27,7 +27,7 @@ This Repository is still under Construction! (03. September 2014)
 __Version 0.0.1__<br>
 Summary about Version 0.0.1 coming soon!
 
-## Download
+## Download Plugin as ZIP
  * [Version 0.0.1](https://github.com/PeggySen/beuthBadges/archive/master.zip)
 
 ## Usage
