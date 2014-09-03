@@ -46,7 +46,7 @@ This Repository is still under Construction! (03. September 2014)
 #### Developer
 * Homepage: 
 * e-mail: 
-* Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
+* Twitter: [@AllMobileGirl](https://twitter.com/AllMobileGirl "AllMobileGirl on twitter")
 * other communication/social media
 
 
