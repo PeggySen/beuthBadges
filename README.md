@@ -43,7 +43,7 @@ This Repository is still under Construction! (03. September 2014)
 * see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
 
 ## Contact
-#### Developer/Company
+#### Developer
 * Homepage: 
 * e-mail: 
 * Twitter: [@twitterhandle](https://twitter.com/twitterhandle "twitterhandle on twitter")
