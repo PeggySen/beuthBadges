@@ -1,7 +1,15 @@
 beuthBadges
 ===========
 
-beuthBadges is a Wordpress Plugin for creating and awarding Mozilla Open Badges. The Plugin is based on the great work of <a href="https://github.com/davelester/WPBadger" target="_blank"><b>Dave Lester</b></a> for creating and issuing Badges, further placing Badges for a specific email address (corresponding to a Mozilla Open Badges Backpack) as <a href="https://github.com/davelester/WPBadgeDisplay" target="_blank"><b>Wordpress Widget</b></a> onto a blog.
+beuthBadges is a Wordpress Plugin for creating and awarding Mozilla Open Badges. 
+
+The Plugin is based on the great work of <a href="https://github.com/davelester/WPBadger" target="_blank"><b>Dave Lester</b></a> for creating and issuing Badges, further placing Badges for a specific email address (corresponding to a Mozilla Open Badges Backpack) as <a href="https://github.com/davelester/WPBadgeDisplay" target="_blank"><b>Wordpress Widget</b></a> onto a blog.
+
+With the plugin "beuthBadges" a Wordpress Administrator will have the opportunity to create a list of potential Badge Earners (identified by the Backpack Email Address), that are not part of the specific Blog/ not stored as Users in a Wordpress Blog. 
+
+The Administrator will have the opportunity to create Badges by uploading an Image and setting the Metadata that is neccessary for a Badge, defined by the guidelines of Mozilla Open Badges.
+
+The Administrator will have the opportunity to issue this Badges to 1 or more earners of the Earner-List and afterwards will be able to manage these awarded Badges.
 
 This Repository is still under Construction! (03. September 2014)
 
