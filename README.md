@@ -28,11 +28,11 @@ This Repository is still under Construction! The first Version of the Wordpress 
 
 ## Versions 
 
-__Version 0.0.1__<br>
-Summary about Version 0.0.1 coming soon!
+__Version 0.1__<br>
+Summary about Version 0.1 coming soon!
 
 ## Download Plugin as ZIP
- * [Version 0.0.1](https://github.com/PeggySen/beuthBadges/archive/master.zip)
+ * [Version 0.1](https://github.com/PeggySen/beuthBadges/archive/master.zip)
 
 ## Usage
 If you want to download the Git Repository to stay up to date, use this statement:<br>
